@@ -1,2 +1,4 @@
-# 锐速 ServerSpeeder 
-A key installation script
+# RuiSu A key installation script
+
+锐速 ServerSpeeder 
+
